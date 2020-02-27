@@ -7,5 +7,7 @@ But you can look at them down in this readme.txt you see these are some breathta
 
 But with the algorithm you can generate these pictures by yourself.
 
+I uploaded the code as a classical Python (.py) format and also if somebody needs it as a jupyter notebook (.ipynb).
+
 ![Screenshot](mandel2.png)
 ![Screenshot](mandel1.png)
